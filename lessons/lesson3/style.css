@@ -1,0 +1,33 @@
+
+ p{
+    color: violet !important;
+}
+body{
+    height: 10000px;
+}
+#vip{
+    color: coral;
+}
+h1{
+    text-align: center; 
+    color: red;
+}
+
+.center{
+    color:brown;
+    text-align: center;
+}
+.aaa{
+    color: teal;
+    font-weight: 900;
+    font-style: italic;
+}
+
+div p{
+    color: green;
+}
+div.center{
+    color: lightslategrey;
+}
+
+div#aaa.bbb.ccc ul#qqq.www li#ttt.yyy.rrr a.kkk
